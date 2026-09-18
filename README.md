@@ -1,96 +1,159 @@
-<!-- Banner Section -->
+<!-- Header Section -->
 <div align="center">
-  <h3>Owner of SᴘɪᴅᴇʀX Osɪɴᴛ</h3>
-  <h1>CyberRoot</h1>
-  <h4>DEVELOPER × OSINT × AUTOMATION</h4>
-  <p><i>Better Tools • Bigger Ideas</i></p>
-  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Sahil+%F0%9F%91%8B;Python+%7C+OSINT+%7C+Automation;Telegram+Bot+Developer;Owner+of+S%E1%B4%98%C9%AA%E1%B4%85%E1%B4%87%CA%80X+Os%C9%AA%C9%B4%E1%B4%9B" alt="Typing SVG" />
+  <br><br>
+  
+  <!-- Replace YOUR_IMAGE_LINK_HERE with the link to your uploaded image -->
+  <img src="YOUR_IMAGE_LINK_HERE" alt="CyberRoot Banner" width="100%" style="border-radius: 10px; box-shadow: 0px 0px 20px #00F7FF;" />
+  
+  <br><br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header" width="100%" />
 </div>
 
-<!-- Main Layout Table -->
-<table border="0" width="100%">
-  <tr>
-    <!-- Left Column: Profile & Connect -->
-    <td width="30%" valign="top" align="center">
-      <!-- Replace the URL below with your uploaded image link -->
-      <img src="https://avatars.githubusercontent.com/u/000000?v=4" width="180" style="border-radius: 50%; border: 3px solid #00BFFF;" alt="CyberRoot Avatar" />
-      
-      <h2>CyberRoot ✅</h2>
-      <code>@Cyb3rRoot</code>
-      <br><br>
-      <p align="left">Building Python tools, OSINT utilities, automation projects and Telegram bots. Turning ideas into practical projects. ⚡</p>
-      
-      <hr>
-      <h4 align="left">📌 Connect</h4>
-      <p align="left">
-        📸 Instagram: <a href="https://instagram.com/Sahilcodex.13">@Sahilcodex.13</a><br>
-        💬 Telegram: <a href="https://t.me/Sp1derX13">@Sp1derX13</a><br>
-        🕷️ SpiderX OSINT: <a href="https://t.me/SAHIL_YT">Telegram Channel</a>
-      </p>
-    </td>
+<!-- About Me -->
+<h2 align="center">👨‍💻 About Me</h2>
 
-    <!-- Middle Column: Tech, Exploring, Projects -->
-    <td width="40%" valign="top">
-      <h3>💻 Tech Stack</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-        <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON" />
-      </p>
-      <p><code>Python</code> · <code>Git</code> · <code>GitHub</code> · <code>Telegram Bot API</code> · <code>APIs</code> · <code>JSON</code></p>
-      
-      <hr>
-      <h3>🧠 Currently Exploring</h3>
-      <ul>
-        <li>🐍 <b>Python:</b> Development & Automation</li>
-        <li>🔎 <b>OSINT:</b> Research & Information Tools</li>
-        <li>✈️ <b>Telegram:</b> Bot Development</li>
-        <li>☁️ <b>APIs:</b> Integration & Data Handling</li>
-      </ul>
-
-      <hr>
-      <h3>🚀 Projects</h3>
-      <p>I enjoy building practical projects around:</p>
-      <ul>
-        <li>🔎 OSINT & research utilities</li>
-        <li>🤖 Telegram automation</li>
-        <li>⚙️ Python scripting</li>
-        <li>🔗 API integrations</li>
-        <li>🧩 Developer tools</li>
-      </ul>
-      <p align="center"><i>« Build → Test → Improve → Repeat »</i></p>
-    </td>
-
-    <!-- Right Column: Environment, Mindset, SpiderX -->
-    <td width="30%" valign="top">
-      <h3>🧪 Dev Environment</h3>
-      <p><b>Termux</b><br>My mobile development and testing environment.</p>
-      
-      <hr>
-      <h3>⚡ Developer Mindset</h3>
-      <p align="center">
-        <code>Learn</code> ↓<br>
-        <code>Build</code> ↓<br>
-        <code>Test</code> ↓<br>
-        <code>Improve</code> ↓<br>
-        <code>Repeat</code>
-      </p>
-      <p align="center"><i>✦ Turning ideas into code. ✦</i></p>
-
-      <hr>
-      <h3>🕷️ SᴘɪᴅᴇʀX Osɪɴᴛ</h3>
-      <p><i>OSINT • Technology • Tools • Development</i></p>
-      <p>A space focused on technology, OSINT and developer projects.</p>
-    </td>
-  </tr>
-</table>
-
-<!-- Footer Section -->
-<br>
 <div align="center">
-  <h3>✦ CYBERROOT ✦</h3>
-  <p><code>CODE / EXPLORE / BUILD / GROW</code></p>
-  <p><i>Small Steps, Big Goals</i></p>
+  <b>« Python • OSINT • Automation • Telegram Bots »</b><br><br>
+  I build Python-based tools, OSINT utilities, automation projects, and Telegram bots.<br>
+  I'm focused on learning, building, testing, and turning ideas into practical projects. ⚡
+</div>
+
+<br>
+
+<!-- What I Build -->
+<h2 align="center">⚡ What I Build</h2>
+
+<div align="center">
+  🔎 <b>OSINT & Information Tools</b><br>
+  🤖 <b>Telegram Bots</b><br>
+  ⚙️ <b>Automation Scripts</b><br>
+  🐍 <b>Python Projects</b><br>
+  🧩 <b>API & Data Utilities</b>
+</div>
+
+<br>
+
+<!-- Tech Stack -->
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,git,github" /><br><br>
+  <img src="https://img.shields.io/badge/Python-00F7FF?style=for-the-badge&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-FF6B35?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Telegram_Bot_API-229ED9?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/APIs-8A2BE2?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
+</div>
+
+<br>
+
+<!-- Currently Exploring -->
+<h2 align="center">🧠 Currently Exploring</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">🐍 <b>Python</b><br><i>Development & Automation</i></td>
+      <td align="center">🔎 <b>OSINT</b><br><i>Research & Information Tools</i></td>
+      <td align="center">🤖 <b>Telegram</b><br><i>Bot Development</i></td>
+      <td align="center">🔗 <b>APIs</b><br><i>Integration & Data Handling</i></td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<!-- Projects -->
+<h2 align="center">🚀 Projects</h2>
+
+<div align="center">
+  I enjoy building practical projects around:<br><br>
+  🔎 <b>OSINT & research utilities</b> &nbsp;|&nbsp; 🤖 <b>Telegram automation</b> &nbsp;|&nbsp; ⚙️ <b>Python scripting</b><br>
+  🔗 <b>API integrations</b> &nbsp;|&nbsp; 🧩 <b>Developer tools</b><br><br>
+  <code>« Build → Test → Improve → Repeat »</code>
+</div>
+
+<br>
+
+<!-- Development Environment -->
+<h2 align="center">🧪 Development Environment</h2>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Development-Termux-000000?style=for-the-badge&logo=termux&logoColor=white" /><br><br>
+  <b>Termux</b> — my mobile development and testing environment.
+</div>
+
+<br>
+
+<!-- Connect With Me -->
+<h2 align="center">🌐 Connect With Me</h2>
+
+<div align="center">
+  <a href="https://instagram.com/Sahilcodex.13" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Sahilcodex.13-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://t.me/Sp1derX13" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-@Sp1derX13-229ED9?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://t.me/SAHIL_YT" target="_blank">
+    <img src="https://img.shields.io/badge/SᴘɪᴅᴇʀX%20Osɪɴᴛ-Channel-111111?style=for-the-badge&logo=telegram&logoColor=00F7FF" />
+  </a>
+</div>
+
+<br>
+
+<!-- SpiderX OSINT -->
+<h2 align="center">🕷️ SᴘɪᴅᴇʀX Osɪɴᴛ</h2>
+
+<div align="center">
+  <b>« OSINT • Technology • Tools • Development »</b><br><br>
+  A space focused on technology, OSINT, and developer projects.<br><br>
+  <a href="https://t.me/SAHIL_YT" target="_blank">
+    <img src="https://img.shields.io/badge/Join%20SᴘɪᴅᴇʀX%20Osɪɴᴛ-000000?style=for-the-badge&logo=telegram&logoColor=229ED9" />
+  </a>
+</div>
+
+<br>
+
+<!-- Developer Mindset -->
+<h2 align="center">⚡ Developer Mindset</h2>
+
+<div align="center">
+  <pre>
+              ┌───────────┐
+              │   Learn   │
+              └─────┬─────┘
+                    ↓
+              ┌───────────┐
+              │   Build   │
+              └─────┬─────┘
+                    ↓
+              ┌───────────┐
+              │   Test    │
+              └─────┬─────┘
+                    ↓
+              ┌───────────┐
+              │  Improve  │
+              └─────┬─────┘
+                    ↓
+              ┌───────────┐
+              │  Repeat   │
+              └───────────┘
+  </pre>
+  
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Turning+ideas+into+code+%E2%9A%A1;Building.+Testing.+Improving." /><br><br>
+  <b>✦ Keep Learning. Keep Building. ✦</b>
+</div>
+
+<br>
+
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+  
+  <b>🕷️ SAHIL CODEX</b><br>
+  <i>"Python • OSINT • Automation • Telegram"</i>
 </div>
