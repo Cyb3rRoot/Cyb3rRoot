@@ -3,10 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Sahil+%F0%9F%91%8B;Python+%7C+OSINT+%7C+Automation;Telegram+Bot+Developer;Owner+of+S%E1%B4%98%C9%AA%E1%B4%85%E1%B4%87%CA%80X+Os%C9%AA%C9%B4%E1%B4%9B" alt="Typing SVG" />
   <br><br>
   
-  <!-- Replace YOUR_IMAGE_LINK_HERE with the link to your uploaded image -->
-  <img src="YOUR_IMAGE_LINK_HERE" alt="CyberRoot Banner" width="100%" style="border-radius: 10px; box-shadow: 0px 0px 20px #00F7FF;" />
-  
-  <br><br>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header" width="100%" />
 </div>
 
